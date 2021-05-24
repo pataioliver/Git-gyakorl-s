@@ -1,1 +1,1 @@
-# Git-gyakorl-s
+# Git-gyakorlas
